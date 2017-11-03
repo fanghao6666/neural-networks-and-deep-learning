@@ -50,6 +50,6 @@
       * Know to use neural style transfer to generate art.
       * Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
     * Programming Assignments:
-      * Convolutional Model:step by step   [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Convolution%20model%20Step%20by%20Step%20v1.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Convolution%20model%20Step%20by%20Step%20v1.py.html)
+      * Convolutional Model:step by step   [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/ConvolutionmodeStepbyStepv1.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Convolution%20model%20Step%20by%20Step%20v1.py.html)
     
         
