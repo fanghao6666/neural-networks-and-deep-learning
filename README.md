@@ -54,5 +54,6 @@
       * Convolution model Application    [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Convolution%20model%20Application%20v1.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Convolution%20model%20Application%20v1.py.html)
       * Keras Tutorial Happy House       [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Keras%20Tutorial%20Happy%20House%20v2.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Keras%20Tutorial%20Happy%20House%20v2.py.html)
       * Residual Networks       [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Residual%20Networks%20.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Residual%20Networks%20.py.html)
+      * Autonomous driving application Car detection       [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Autonomous%20driving%20application%20Car%20detection.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Autonomous%20driving%20application%20Car%20detection.py.html)
     
         
