@@ -53,5 +53,6 @@
       * Convolutional Model:step by step   [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/ConvolutionmodeStepbyStepv1.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Convolution%20model%20Step%20by%20Step%20v1.py.html)
       * Convolution model Application    [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Convolution%20model%20Application%20v1.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Convolution%20model%20Application%20v1.py.html)
       * Keras Tutorial Happy House       [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Keras%20Tutorial%20Happy%20House%20v2.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Keras%20Tutorial%20Happy%20House%20v2.py.html)
+      * Residual Networks       [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Residual%20Networks%20.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Residual%20Networks%20.py.html)
     
         
