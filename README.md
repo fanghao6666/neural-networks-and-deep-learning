@@ -55,5 +55,6 @@
       * Keras Tutorial Happy House       [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Keras%20Tutorial%20Happy%20House%20v2.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Keras%20Tutorial%20Happy%20House%20v2.py.html)
       * Residual Networks       [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Residual%20Networks%20.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Residual%20Networks%20.py.html)
       * Autonomous driving application Car detection       [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Autonomous%20driving%20application%20Car%20detection.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Autonomous%20driving%20application%20Car%20detection.py.html)
+      * Art Generation with Neural Style Transfer       [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Art%20Generation%20with%20Neural%20Style%20Transfer.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Art%20Generation%20with%20Neural%20Style%20Transfer.py.html)
     
         
