@@ -57,5 +57,16 @@
       * Autonomous driving application Car detection       [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Autonomous%20driving%20application%20Car%20detection.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Autonomous%20driving%20application%20Car%20detection.py.html)
       * Art Generation with Neural Style Transfer       [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Art%20Generation%20with%20Neural%20Style%20Transfer.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Art%20Generation%20with%20Neural%20Style%20Transfer.py.html)
       * Face Recognition for the Happy House       [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Face%20Recognition%20for%20the%20Happy%20House.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Face%20Recognition%20for%20the%20Happy%20House.py.html)
+* [***Sequence Models***](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
+   * This course will teach you how to build models for natural language, audio, and other sequence data. Thanks to deep learning, sequence algorithms are working far better than just two years ago, and this is enabling numerous exciting applications in speech recognition, music synthesis, chatbots, machine translation, natural language understanding, and many others. 
+   * When you finish this class,you will:
+      * Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
+      * Be able to apply sequence models to natural language problems, including text synthesis.
+      * Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
+    * Programming Assignments:
+
+
+   
+
     
         
