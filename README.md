@@ -66,7 +66,8 @@
     * Programming Assignments:
       * Building a Recurrent Neural Network Step by Step   [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Building%20a%20Recurrent%20Neural%20Network%20Step%20by%20Step%20v3.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Building%20a%20Recurrent%20Neural%20Network%20Step%20by%20Step%20v3.py)
       * Dinosaurus Island Character level language model   [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Dinosaurus%20Island%20Character%20level%20language%20model%20final%20v3.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Dinosaurus%20Island%20Character%20level%20language%20model%20final%20v3.py)
-
+      * Operations on word vectors   [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Operations%20on%20word%20vectors.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Operations%20on%20word%20vectors.py)
+      * Emojify   [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Emojify.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Emojify.py)
 
    
 
