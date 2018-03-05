@@ -68,6 +68,8 @@
       * Dinosaurus Island Character level language model   [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Dinosaurus%20Island%20Character%20level%20language%20model%20final%20v3.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Dinosaurus%20Island%20Character%20level%20language%20model%20final%20v3.py)
       * Operations on word vectors   [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Operations%20on%20word%20vectors.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Operations%20on%20word%20vectors.py)
       * Emojify   [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Emojify.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Emojify.py)
+      * Neural machine translation with attention   [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Neural%20machine%20translation%20with%20attention.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Neural%20machine%20translation%20with%20attention.py)
+      * Trigger word detection   [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Trigger%20word%20detection.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Trigger%20word%20detection.py)
 
    
 
