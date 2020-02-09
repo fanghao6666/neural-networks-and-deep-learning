@@ -766,8 +766,8 @@ def update_parameters_with_adam(parameters, grads, v, s, t, learning_rate = 0.01
 
         # Update parameters. Inputs: "parameters, learning_rate, v_corrected, s_corrected, epsilon". Output: "parameters".
         ### START CODE HERE ### (approx. 2 lines)
-        parameters["W" + str(l+1)] = parameters["W" + str(l+1)] - learning_rate * v_corrected["dW" + str(l+1)] / (np.square(np.sum(s_corrected["dW" + str(l+1)],axis = 0))+ epsilon)
-        parameters["b" + str(l+1)] = parameters["b" + str(l+1)] - learning_rate * v_corrected["db" + str(l+1)] / (np.square(np.sum(s_corrected["db" + str(l+1)],axis = 0))+ epsilon)
+        parameters["W" + str(l+1)] = parameters["W" + str(l+1)] = parameters["W" + str(l+1)] - learning_rate * v_corrected["dW" + str(l+1)] / (np.sqrt(s_corrected["dW" + str(l+1)])+ epsilon)
+        parameters["b" + str(l+1)] = parameters["b" + str(l+1)] = parameters["b" + str(l+1)] - learning_rate * v_corrected["db" + str(l+1)] / (np.sqrt(s_corrected["db" + str(l+1)])+ epsilon)
         ### END CODE HERE ###
         ### add by fanghao : there some bugs here that Adam model can't train
 
