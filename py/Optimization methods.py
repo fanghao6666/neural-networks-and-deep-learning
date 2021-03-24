@@ -754,8 +754,8 @@ def update_parameters_with_adam(parameters, grads, v, s, t, learning_rate = 0.01
 
         # Moving average of the squared gradients. Inputs: "s, grads, beta2". Output: "s".
         ### START CODE HERE ### (approx. 2 lines)
-        s["dW" + str(l+1)] = beta2 * s["dW" + str(l+1)] + (1 - beta2) * grads['dW' + str(l+1)] * grads['dW' + str(l+1)] 
-        s["db" + str(l+1)] = beta2 * s["db" + str(l+1)] + (1 - beta2) * grads['db' + str(l+1)] * grads['db' + str(l+1)]  
+        s["dW" + str(l+1)] = beta1 * s["dW" + str(l+1)] + (1 - beta2) * grads['dW' + str(l+1)] * grads['dW' + str(l+1)] 
+        s["db" + str(l+1)] = beta1 * s["db" + str(l+1)] + (1 - beta2) * grads['db' + str(l+1)] * grads['db' + str(l+1)]  
         ### END CODE HERE ###
 
         # Compute bias-corrected second raw moment estimate. Inputs: "s, beta2, t". Output: "s_corrected".
