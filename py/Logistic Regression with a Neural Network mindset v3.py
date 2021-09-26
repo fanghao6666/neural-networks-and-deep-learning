@@ -282,7 +282,7 @@ def initialize_with_zeros(dim):
     
     ### START CODE HERE ### (≈ 1 line of code)
     w = np.zeros([dim,1])
-    b = 0
+    b = 0.0
     ### END CODE HERE ###
 
     assert(w.shape == (dim, 1))
