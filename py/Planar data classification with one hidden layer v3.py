@@ -613,20 +613,20 @@ def update_parameters(parameters, grads, learning_rate = 1.2):
     Returns:
     parameters -- python dictionary containing your updated parameters 
     """
-    # Retrieve each parameter from the dictionary "parameters"
+    # Retrieve a copy of each parameter from the dictionary "parameters". Use copy.deepcopy(...) for W1 and W2
     ### START CODE HERE ### (≈ 4 lines of code)
-    W1 = parameters["W1"]
-    b1 = parameters["b1"]
-    W2 = parameters["W2"]
-    b2 = parameters["b2"]
+    W1 = copy.deepcopy(parameters["W1"])
+    b1 = copy.deepcopy(parameters["b1"])
+    W2 = copy.deepcopy(parameters["W2"])
+    b2 = copy.deepcopy(parameters["b2"])
     ### END CODE HERE ###
     
     # Retrieve each gradient from the dictionary "grads"
     ### START CODE HERE ### (≈ 4 lines of code)
-    dW1 = grads["dW1"]
-    db1 = grads["db1"]
-    dW2 = grads["dW2"]
-    db2 = grads["db2"]
+    dW1 = copy.deepcopy(grads["dW1"])
+    db1 = copy.deepcopy(grads["db1"])
+    dW2 = copy.deepcopy(grads["dW2"])
+    db2 = copy.deepcopy(grads["db2"])
     ## END CODE HERE ###
     
     # Update rule for each parameter
